@@ -1,2 +1,1 @@
-# PMG-LAB6
-This is a test repository for pmg lab 6
+Hello this is 6th week
